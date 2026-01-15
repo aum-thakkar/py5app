@@ -1,0 +1,11 @@
+site_name: 'py5app'
+site_description: 'Main documentation for py5app app'
+repo_url: https://github.com/aum-thakkar/py5app
+edit_uri: edit/main/docs
+
+plugins:
+  - techdocs-core
+
+nav:
+  - Overview:
+      - Getting Started: 'docs/index.md'
